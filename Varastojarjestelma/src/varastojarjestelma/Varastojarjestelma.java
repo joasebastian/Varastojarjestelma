@@ -19,6 +19,7 @@ public class Varastojarjestelma {
         //jeejee
         //tuoli
         //Kulli
+        //pöytä
     }
     
 }
