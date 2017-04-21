@@ -18,6 +18,7 @@ public class Varastojarjestelma {
         // TODO code application logic here
         //jeejee
         //tuoli
+        //Kulli
     }
     
 }
