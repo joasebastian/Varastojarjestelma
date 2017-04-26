@@ -7,15 +7,16 @@ package varastojarjestelma;
 
 /**
  *
- * @author user3
+ *
  */
 public class Varastojarjestelma {
-
-    /**
-     * @param args the command line arguments
-     */
+    
+    public static Tuote testiTuote = new Tuote("123-456", "appelsiinit");
+    
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        String testeri = testiTuote.getAvain();
+        System.out.println(testeri);
         
     }
     
