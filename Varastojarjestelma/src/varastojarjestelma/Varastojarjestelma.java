@@ -16,10 +16,7 @@ public class Varastojarjestelma {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //jeejee
-        //tuoli
-        //Kulli
-        //pöytä
+        
     }
     
 }
