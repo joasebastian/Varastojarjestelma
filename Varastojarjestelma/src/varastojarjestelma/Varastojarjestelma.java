@@ -42,7 +42,7 @@ public class Varastojarjestelma {
         System.out.println(lajittelu.vapaatVarastopaikat());
         
         
-        
+        //nonyttte
         
     }
     
