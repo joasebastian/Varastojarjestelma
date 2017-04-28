@@ -42,7 +42,11 @@ public class Varastojarjestelma {
         System.out.println(lajittelu.vapaatVarastopaikat());
         
         
+<<<<<<< HEAD
         //nonyttte
+=======
+        
+>>>>>>> refs/remotes/origin/joa
         
     }
     
