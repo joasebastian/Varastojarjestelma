@@ -29,12 +29,14 @@ public class Tuote {
         tiedot.put(tuotenumero, tietue);
     }
     
+    //get perusavain (eli tuotenumero)
     public String getAvain(){
             for(Map.Entry<String, Tuotetietue> pari : tiedot.entrySet()){
                 return pari.getKey();
             }
             return null;
     }
+    
     
     
     
